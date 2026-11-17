@@ -3,7 +3,7 @@ name = "SigmaOS-power-profiles-daemon"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "power-profiles-daemon component"
+description = "SigmaOS SigmaOS-power-profiles-daemon component"
 upstream = []
 
 [contract]
